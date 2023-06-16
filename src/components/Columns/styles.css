@@ -1,0 +1,12 @@
+.columns-container {
+    border-radius: 5px;
+    border: 1px solid #eee;
+    box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: row;
+}
+
+.column-container {
+    padding: 10px;
+    border: 1px solid #eee;
+}
